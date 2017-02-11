@@ -1,0 +1,6 @@
+DoctorsTable
+	Name
+	Email
+	Type (from the table type)
+	Number of Patients Pending
+	Availablity

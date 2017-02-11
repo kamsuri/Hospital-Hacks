@@ -1,0 +1,7 @@
+Patient's server Data
+	Name
+	Age
+	Sex
+	Address
+	Contact
+	

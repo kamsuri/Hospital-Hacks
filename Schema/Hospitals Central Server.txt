@@ -1,0 +1,9 @@
+Hospitals Central Server
+	Hid
+	Name
+	Address (Location on Map)
+	Contact
+	Rating
+	Avaailable Beds
+	Doctors List
+	Types Available

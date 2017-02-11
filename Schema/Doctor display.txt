@@ -1,0 +1,8 @@
+Doctor display
+	List - Patients
+		Name
+		Age
+		Sex
+		Old Prescription
+	Admission Required
+	Prescription

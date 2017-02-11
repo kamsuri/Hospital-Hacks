@@ -1,0 +1,34 @@
+Reception Interface
+	Name
+	Age
+	Address
+	Contact
+	Sex
+	Admission
+		Bed Alloted Y/N
+			Bed No
+	Category
+		Emergency
+			Bed 
+		Consultation
+	Type
+		Neuro
+			Dr1
+			Dr2
+			Dr3
+		heart
+			Dr1
+			Dr2
+			Dr3
+		Gastro
+			Dr1
+			Dr2
+			Dr3
+		Gynae
+			Dr1
+			Dr2
+			Dr3
+		General
+			Dr1
+			Dr2
+			Dr3
